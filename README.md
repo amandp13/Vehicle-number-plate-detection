@@ -26,4 +26,4 @@
 
 
 ## ✔️ License 
-This project follows GNU [License](LICENSE)
+This project follows GNU [License](https://github.com/amandp13/Vehicle-Plate-Recognition/blob/main/LICENSE)
