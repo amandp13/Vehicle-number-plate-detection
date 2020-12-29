@@ -5,13 +5,6 @@
 
 <br>
 
-✨ **Accepted in Script Winter of Code (https://swoc.tech/)**
-
-<img src="Swoc.png" width="600" /><br>
-
-- Script Winter of Code is an open-source program envisioned by the **Script Foundation**.
-- It aims to bring students into the world of open source development and see the power of unified problem-solving in real time.
-
 <hr>
 
 ## About the Project:
