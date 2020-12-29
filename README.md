@@ -13,6 +13,14 @@
 - Means, Firstly taking the image of Vehicle , then extracting the Number Plate from it using technique for localization, segmentation and recognition of the characters within the located plate. 
 
 <hr>
+  
+## OUR TEAM:
+
+  - **AMANDEEP**
+  - **AMAN VERMA**
+  - **KUMAR ASHUTOSH AMAN**
+
+<hr>
 
 ### Some of its applications:
 
