@@ -15,7 +15,7 @@
   
 ## OUR TEAM:
 
-  - **AMANDEEP**
+  - **[AMANDEEP](https://github.com/amandp13/)**
   - **AMAN VERMA**
   - **KUMAR ASHUTOSH AMAN**
 
